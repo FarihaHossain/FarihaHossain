@@ -4,7 +4,7 @@
 
 :mag_right: **I'm in the job market and actively looking for Intership in Deep Learning, Computer Vision, and Medical Imaging from May 2024**. [[Curriculum Vitae]](https://farihahossain.github.io/files/Resume_Fariha_Hossain.pdf) 
 
-- :mortar_board: Ph.D. in CS from [University of Nevada, Reno](https://www.cse.unr.edu/). [[Personal Page]](https://farihahossain.github.io/) 
+- :mortar_board: Ph.D. 3rd Year in CS [University of Nevada, Reno](https://www.cse.unr.edu/). [[Personal Page]](https://farihahossain.github.io/) 
 
 - :computer: My Research is focused on Multi-Modal medical Imagaing . [[Google Scholar]](https://scholar.google.com/citations?user=pey8DYgAAAAJ)
 
