@@ -21,8 +21,8 @@
 
 #📫 I can be reached at
 <p align="left">
-<a href="www.linkedin.com/in/fariha-hossain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharif-k-b15004105/" height="30" width="40" /></a>
-<a href="https://mail.google.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khondkerfarihah@nevada.unr.edu" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/fariha-hossain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/fariha-hossain/" height="30" width="40" /></a>
+<a href="https://mail.google.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khondkerfarihah@unr.edu" height="30" width="40" /></a>
 </p>
 
 
