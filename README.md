@@ -2,9 +2,9 @@
 
 <h3 align="center"> 🌱Deep Learning Researcher working on Bio-medical Imaging </h3>
 
-:mag_right: **I'm in the job market and actively looking for an internship in Deep Learning, Computer Vision, and Medical Imaging from May 2024**. [[Curriculum Vitae]](https://farihahossain.github.io/files/Resume_Fariha_Hossain.pdf) 
+:mag_right: **I'm an Assistant Professor in Northern Arizona University**. [[Curriculum Vitae]](https://farihahossain.github.io/files/Resume_Fariha_Hossain.pdf) 
 
-- :mortar_board: Ph.D. Candidate[4th Year] in CS [University of Nevada, Reno](https://www.cse.unr.edu/). [[Personal Page]](https://farihahossain.github.io/) 
+- :mortar_board: [[Personal Page]](https://farihahossain.github.io/) 
 
 - :computer: My Research is focused on Multi-Modal Medical Imaging. [[Google Scholar]](https://scholar.google.com/citations?user=pey8DYgAAAAJ)
 
